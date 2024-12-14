@@ -61,7 +61,7 @@
 
 # **BlackSheep**
 
-BlackSheep allows users to scan a specified directory of files, compute their MD5 hash values, and check these hashes against the **VirusTotal** API to determine whether they are potentially malicious. It provides a simple, user-friendly graphical interface (GUI) built with Python's `Tkinter` library, making it accessible even for non-technical users.
+BlackSheep allows users to scan a specified directory of files, compute their MD5 hash values, and check these hashes against the **VirusTotal** API to determine whether they are potentially malicious.
 
 ## **Requirements**
 
